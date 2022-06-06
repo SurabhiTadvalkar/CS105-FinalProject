@@ -9,8 +9,7 @@
 ## Links
  * Kaggle Data Set: https://www.kaggle.com/datasets/ihormuliar/starbucks-customer-data?select=profile.csv
  * Project Report: https://docs.google.com/document/d/1h93MjabDBe1lGyThazyjlzU-X6CBA476czVkQEvcI9M/edit
- * Project Presentation Slides: 
- * Our Google Doc: https://docs.google.com/document/d/1WtAKcfBF1sqMU0MKnSLrFLge6XfTkbfva5Ty3vGOspU/edit
+ * Project Presentation Slides: https://docs.google.com/presentation/d/1oEAjCgaKffwZzB7GEbo7lR0_aCJH0iIMjLAjhVrqnFo/edit#slide=id.p
 
 
 
